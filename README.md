@@ -1,6 +1,6 @@
 # Fairhouse
 
-This project is based on the angular codelab: `https://codelabs.developers.google.com/introduction-to-angular`. I made changes in order to use standalone components and improve UX.
+This project is based on the [Angular Codelab][codelab-url]. I made changes in order to use standalone components and improve UX.
 
 ## Development server
 
@@ -13,3 +13,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+[codelab-url]: https://codelabs.developers.google.com/introduction-to-angular
